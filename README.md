@@ -1,5 +1,5 @@
 # 📈 StockSage AI  
-**Your AI-powered stock market assistant delivering real-time insights and predictive analytics**
+**Your AI-powered stock market recommendation platform delivering real-time insights and predictive analytics along with smart portfolio suggestions**
 
 ---
 
